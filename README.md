@@ -1,14 +1,16 @@
 # 网络安全学习笔记
 
-信息安全专业的学习笔记与 CTF writeup，全部为 Markdown，可在 Obsidian 或直接在 GitHub 上阅读。
+信息安全专业的学习笔记、CTF writeup 与网络编程练习，以 Markdown 为主，并包含部分可运行源码，可在 Obsidian、GitHub 或本地环境中阅读。
 
-> 仓库内容全部来自**公开 CTF 比赛和公开靶场**的练习记录，以及通用的 Web 安全知识整理，不包含任何真实目标的资产或凭据信息。
+> 仓库内容来自**公开 CTF 比赛、练习靶场和课程学习整理**，不包含任何真实目标的资产或凭据信息。
 
 ## 目录
 
 | 目录 | 内容 |
 | --- | --- |
 | [`ctf-beginner-guide/`](ctf-beginner-guide/) | 网络安全与 CTF 零基础到进阶学习指南（精修版） |
+| [`cryptography/`](cryptography/) | 密码学实验与算法实现 |
+| [`python-learning/`](python-learning/) | Python 网络编程、Socket 与并发练习 |
 | `ctf-writeups/` | CTF 比赛题解 |
 | `ctf-writeups/competition-plan/` | 2026 京津冀大学生信息安全网络攻防大赛决赛备赛方案 |
 | `web-security/` | Web 漏洞原理与利用的学习笔记 |
@@ -45,4 +47,5 @@
 
 - 所有目标地址均为 CTF 比赛 / 靶场的一次性临时环境，**公网 IP 已统一替换为 RFC 5737 文档地址段 `203.0.113.0/24`**，无法用于复现或攻击。
 - 笔记中的账号口令均为靶场内预置的演示凭证。
+- 课程作业和 Python 练习在公开前已移除姓名、学号、个人报告、截图、用户数据、私钥与本机绝对路径。
 
