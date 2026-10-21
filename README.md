@@ -8,6 +8,7 @@
 
 | 目录 | 内容 |
 | --- | --- |
+| [`ctf-beginner-guide/`](ctf-beginner-guide/) | 网络安全与 CTF 零基础到进阶学习指南（精修版） |
 | `ctf-writeups/` | CTF 比赛题解 |
 | `ctf-writeups/competition-plan/` | 2026 京津冀大学生信息安全网络攻防大赛决赛备赛方案 |
 | `web-security/` | Web 漏洞原理与利用的学习笔记 |
